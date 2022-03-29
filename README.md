@@ -6,15 +6,15 @@
 - 📫 How to reach me ...
 --->
 
-![github_cover](https://user-images.githubusercontent.com/76034200/160581145-e87b253e-b99a-4b2d-9873-0f84eaf9ee4c.png)
+
+<a href="https://milosbondokic.netlify.app/" target="blank">
+  <img src="https://user-images.githubusercontent.com/76034200/160582413-a5728fdb-8bca-4bd0-b1dc-552606b1b25c.png" alt="Info cover"/>
+</a>
 
 <h1>
-  hey there
+  Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/milo%C5%A1-bondoki%C4%87/" target="blank">
