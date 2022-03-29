@@ -7,7 +7,7 @@
 --->
 
 <a href="https://milosbondokic.netlify.app/" target="blank">
-  <img src="https://user-images.githubusercontent.com/76034200/160586533-bcb4399d-7626-4ab1-b869-0352e6c27e1b.png" alt="Info cover" align="center"/>
+  <img src="https://user-images.githubusercontent.com/76034200/160591075-fa2b5a4d-6b27-4a43-8faa-eabdbb428226.png" alt="Info cover" align="center"/>
 </a>
 
 <h1>
