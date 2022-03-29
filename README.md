@@ -18,7 +18,7 @@
 
 <h3 align="center">A passionate frontend developer</h3>
 
-- 📄 Know about my experiences [https://milosbondokic.netlify.app](https://milosbondokic.netlify.app)
+- 📄 Know about my experiences: [https://milosbondokic.netlify.app](https://milosbondokic.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
