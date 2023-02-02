@@ -16,7 +16,7 @@
   I'm Miloš Bondokić
 </h1>
 
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate web developer</h3>
 
 - 📄 Know about my experiences: [https://milosbondokic.netlify.app](https://milosbondokic.netlify.app)
 
